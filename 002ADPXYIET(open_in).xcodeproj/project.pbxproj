@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7C9D9C2E1A13086F00C54C7E /* JNYJ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7C9D9C2D1A13086F00C54C7E /* JNYJ.jpg */; };
+		7C04E6B71A134BDC009414E4 /* JNYJ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7C04E6B61A134BDC009414E4 /* JNYJ.jpg */; };
 		7CB808DE1A1304A800D48926 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CB808DD1A1304A800D48926 /* AppDelegate.swift */; };
 		7CB808E01A1304A800D48926 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CB808DF1A1304A800D48926 /* ViewController.swift */; };
 		7CB808E31A1304A800D48926 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7CB808E11A1304A800D48926 /* Main.storyboard */; };
@@ -32,7 +32,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		7C9D9C2D1A13086F00C54C7E /* JNYJ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = JNYJ.jpg; path = ../../../../../../Desktop/JNYJ.jpg; sourceTree = "<group>"; };
+		7C04E6B61A134BDC009414E4 /* JNYJ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = JNYJ.jpg; sourceTree = "<group>"; };
 		7CB808D81A1304A800D48926 /* 002ADPXYIET(open_in).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "002ADPXYIET(open_in).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CB808DC1A1304A800D48926 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7CB808DD1A1304A800D48926 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -101,7 +101,7 @@
 				7CB808FF1A13053300D48926 /* Openin.swift */,
 				7CB809021A13055600D48926 /* Openin.h */,
 				7CB809031A13055600D48926 /* Openin.m */,
-				7C9D9C2D1A13086F00C54C7E /* JNYJ.jpg */,
+				7C04E6B61A134BDC009414E4 /* JNYJ.jpg */,
 				7CB808E11A1304A800D48926 /* Main.storyboard */,
 				7CB808E41A1304A800D48926 /* Images.xcassets */,
 				7CB808E61A1304A800D48926 /* LaunchScreen.xib */,
@@ -218,7 +218,7 @@
 			files = (
 				7CB808E31A1304A800D48926 /* Main.storyboard in Resources */,
 				7CB808E81A1304A800D48926 /* LaunchScreen.xib in Resources */,
-				7C9D9C2E1A13086F00C54C7E /* JNYJ.jpg in Resources */,
+				7C04E6B71A134BDC009414E4 /* JNYJ.jpg in Resources */,
 				7CB808E51A1304A800D48926 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
