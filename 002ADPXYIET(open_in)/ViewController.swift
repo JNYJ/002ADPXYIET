@@ -24,7 +24,7 @@ class ViewController: UIViewController,UIDocumentInteractionControllerDelegate {
 
 	@IBAction func event_openin(){
 		var openIn_  = Openin()
-		openIn_.setParentViewController(self,aRect:self.button_Openin.frame)
+		openIn_.setParentViewController(self, rectInView: self.button_Openin.frame)
 
 //		NSString *path = [[NSBundle mainBundle] pathForResource:@"provinces" ofType:@"plist"];
 		var string_path : NSString! = NSBundle.mainBundle().pathForResource("JNYJ", ofType: "jpg")

@@ -26,7 +26,7 @@ class Openin: NSObject {
 		super.init()
 	}
 
-	func setParentViewController(aViewController : ViewController!, aRect : CGRect!){
+	func setParentViewController(aViewController : ViewController!, rectInView aRect : CGRect!){
 		if let item = self.viewController_parent {
 		}else{
 			if let item = aViewController {
